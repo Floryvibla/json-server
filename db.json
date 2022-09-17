@@ -1,0 +1,31 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "userId": 1,
+            "type": "video",
+            "info": "https://assets.mixkit.co/videos/preview/mixkit-talented-freestyle-soccer-player-juggling-the-ball-43519-large.mp4",
+            "description": "Jogador de futebol de estilo livre talentoso fazendo malabarismo com a bola Talento do futebol freestyle fazendo malabarismo com a bola com grande destreza com os pés e a cabeça, em um estacionamento escuro e vazio.",
+            "localização": null,
+            "music": "Thequebras - banzo"
+        },
+        {
+            "id": 2,
+            "userId": 1,
+            "type": "photo",
+            "info": "https://images.nappy.co/avatar/starnes-47561611431276wrbw3iaio9.jpg?auto=format&fm=jpg&",
+            "description": "Aqui é a descrição da foto",
+            "localização": "Aparelha luzia",
+            "music": null
+        },
+        {
+            "id": 3,
+            "userId": 1,
+            "type": "text",
+            "info": "Talento do futebol freestyle fazendo malabarismo com a bola com grande destreza com os pés e a cabeça, em um estacionamento escuro e vazio.",
+            "description": null,
+            "localização": "Em casa",
+            "music": null
+        }
+    ]
+}
